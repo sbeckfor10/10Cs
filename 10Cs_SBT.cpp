@@ -10,7 +10,7 @@ int main()
   std::cout << "3. Do not swear.\n";
   std::cout << "4. Remember to work and rest.\n";
   std::cout << "5. Look after your parents whilst protecting yourself.\n";
-  std::cout << "6. Do not kill except in self-defence.\n";
+  std::cout << "6. Do not kill except in self-defence. Calmy defend oneself.\n";
   std::cout << "7. Do not cheat on your boyfriend, girlfriend, wife or husband.\n";
   std::cout << "8. Do not steal.\n";
   std::cout << "9. Do not lie.\n";
